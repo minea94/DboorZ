@@ -8,7 +8,7 @@ $SetupMetadata = array (
 
  */
 
-'map_size'=> 400,// ranged from 400 to -400
+'map_size'=> 801,// ranged from 400 to -400
 
 
 
